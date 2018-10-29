@@ -1,0 +1,19 @@
+{
+  "name": "csgrid",
+  "version": "1.0.0",
+  "description": "",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error no test specified\" && exit 1",
+    "wbp": "webpack"
+  },
+  "keywords": [],
+  "author": "richard bray",
+  "license": "ISC",
+  "devDependencies": {
+    "jquery": "^3.3.1",
+    "webpack": "^4.23.1",
+    "webpack-cli": "^3.1.2"
+  },
+  "dependencies": {}
+}
